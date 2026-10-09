@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace sarimsiddiqui.com with the live domain before deploying
+Sitemap: https://sarimsiddiqui.com/sitemap.xml
