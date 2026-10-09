@@ -51,7 +51,7 @@ section{padding:clamp(64px,9vw,130px) 0}
 .nav-inner{display:flex;align-items:center;justify-content:space-between;height:72px}
 .brand{display:flex;align-items:center;gap:12px;height:72px}
 .brand-sig{
-  height:50px;width:auto;display:block;
+  height:64px;width:auto;display:block;
   transition:transform .35s cubic-bezier(.34,1.56,.64,1);
 }
 .brand:hover .brand-sig{transform:rotate(-4deg) scale(1.06)}
